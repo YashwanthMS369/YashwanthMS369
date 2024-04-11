@@ -1,8 +1,4 @@
 
-![Your GIF Banner](https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)
-
-
-
 # 💫 About Me:
 I'm currently working on UI/UX for AR, VR, PC applictions<br>I'm looking to collaborate on Full Stack Development <br>I'm looking for help with Full Stack Development<br>I'm currently learning MERN, AWS<br>Ask me about JS, React, NodeJs, Trading, AWS<br>Fun fact I am a Trader come Cricketer
 
