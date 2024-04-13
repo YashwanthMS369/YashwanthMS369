@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm currently working on UI/UX for AR, VR, PC applictions<br>I'm looking to collaborate on Full Stack Development <br>I'm looking for help with Full Stack Development<br>I'm currently learning MERN, AWS<br>Ask me about JS, React, NodeJs, Trading, AWS<br>Fun fact I am a Trader come Cricketer
+I'm currently working on UI/UX development for AR, VR, PC applications<br>I'm looking to collaborate on Full Stack Development <br>I'm looking for help with Full Stack Development<br>I'm currently learning MERN, AWS<br>Ask me about JS, React, NodeJs, Trading, AWS<br>Fun fact I am a Trader come Cricketer
 
 
 ## 🌐 Socials:
